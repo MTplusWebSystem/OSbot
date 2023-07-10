@@ -5,4 +5,5 @@ npm install -g npm@9.8.0
 apt install screen -y
 git clone https://github.com/MTplusWebSystem/OSbot
 cd OSbot
-screen -S OSbot -dm node index.js
+npm i rompot 
+node index.js
